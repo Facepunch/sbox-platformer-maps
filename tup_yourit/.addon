@@ -1,0 +1,18 @@
+{
+  "Title": "Tag You\u0027re It",
+  "Type": "map",
+  "Org": "facepunch",
+  "Ident": "tup_yourit",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "GameSupport": [
+      "facepunch.platformer"
+    ]
+  }
+}
