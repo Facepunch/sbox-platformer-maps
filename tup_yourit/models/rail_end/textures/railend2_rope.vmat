@@ -10,7 +10,7 @@ Layer0
 	//---- Ambient Occlusion ----
 	g_flAmbientOcclusionDirectDiffuse "0.000"
 	g_flAmbientOcclusionDirectSpecular "0.000"
-	TextureAmbientOcclusion "models/rail_end/textures/railend2_rope_ao.png"
+	TextureAmbientOcclusion "materials/default/default_ao.tga"
 
 	//---- Color ----
 	g_flModelTintAmount "1.000"
@@ -31,7 +31,7 @@ Layer0
 	g_flMetalness "0.000"
 
 	//---- Normal ----
-	TextureNormal "models/rail_end/textures/railend2_rope_normal.png"
+	TextureNormal "materials/default/default_normal.tga"
 
 	//---- Roughness ----
 	TextureRoughness "models/rail_end/textures/railend2_rope_rough.png"
