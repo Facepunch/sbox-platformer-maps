@@ -51,6 +51,6 @@ Layer0
 
 	ToolAttributes
 	{
-		SubrectDefinition "materials/inflateable/inflate_2_hs.rect"
+		SubrectDefinition "materials/inflatable/inflate_2a_hs.rect"
 	}
 }
