@@ -9,8 +9,8 @@
 			m_nOpacityPercent = 100
 			m_bVisible = true
 			m_pLayerMask = null
-			m_nVibrance = 11
-			m_nSaturation = 12
+			m_nVibrance = 13
+			m_nSaturation = 11
 		},
 		{
 			_class = "CColorTintColorCorrectionLayer"
@@ -92,8 +92,8 @@
 			m_pLayerMask = null
 			m_params = 
 			{
-				m_flExposureBias = 0.0576
-				m_flShoulderStrength = 0.1815
+				m_flExposureBias = 0.7464
+				m_flShoulderStrength = 0.1962
 				m_flLinearStrength = 0.464
 				m_flLinearAngle = 0.1627
 				m_flToeStrength = 0.1999
