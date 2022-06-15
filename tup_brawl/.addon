@@ -1,0 +1,14 @@
+{
+  "Title": "Brawl",
+  "Type": "map",
+  "Org": "facepunch",
+  "Ident": "tup_brawl",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {}
+}
